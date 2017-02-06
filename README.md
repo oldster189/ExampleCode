@@ -1,5 +1,5 @@
 # ExampleCode
-1. Get Current ListView</br>
+# 1. Get Current ListView</br>
                     int first = mListView.getFirstVisiblePosition();</br>
                     View c =  mListView.getChildAt(0);</br>
                     int top = c == null?0:c.getTop();</br>
